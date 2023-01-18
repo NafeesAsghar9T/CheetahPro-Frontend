@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1021458962266-5lskoosl9fj5tg18ivj2437u3n2ep78g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1021458962266-5lskoosl9fj5tg18ivj2437u3n2ep78g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbJOw8ij886hRIyzcjqnOLkGe7Ij8PkhI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1021458962266</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.CheetahPro</string>
+	<key>PROJECT_ID</key>
+	<string>cheetahpro-ce38b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cheetahpro-ce38b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1021458962266:ios:3a036b7534fcd05ad3c563</string>
+	<key>DATABASE_URL</key>
+	<string>https://cheetahpro-ce38b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

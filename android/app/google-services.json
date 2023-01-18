@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021458962266",
+    "firebase_url": "https://cheetahpro-ce38b-default-rtdb.firebaseio.com",
+    "project_id": "cheetahpro-ce38b",
+    "storage_bucket": "cheetahpro-ce38b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021458962266:android:4644759930a63b76d3c563",
+        "android_client_info": {
+          "package_name": "com.cheetahpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021458962266-9dks9omvbklnokvteaj2n9v9n91o7k06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbC5vbo8v0YqmMGxNCaqL25w9Gntq2v68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021458962266-9dks9omvbklnokvteaj2n9v9n91o7k06.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021458962266-5lskoosl9fj5tg18ivj2437u3n2ep78g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.CheetahPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
